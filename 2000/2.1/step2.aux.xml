@@ -1,0 +1,29 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>step2c1</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>step2c2</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>step2c3</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>step2c4</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>step2c5</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>step2c6</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>step2c7</Description>
+  </PAMRasterBand>
+</PAMDataset>
