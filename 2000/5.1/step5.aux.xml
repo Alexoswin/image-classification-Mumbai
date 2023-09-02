@@ -1,0 +1,22 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue>2.56000000000000E+002</NoDataValue>
+    <ColorInterp>Palette</ColorInterp>
+    <ColorTable>
+      <Entry c1="0" c2="169" c3="230" c4="255" />
+      <Entry c1="255" c2="255" c3="115" c4="255" />
+      <Entry c1="163" c2="255" c3="115" c4="255" />
+      <Entry c1="38" c2="115" c3="0" c4="255" />
+      <Entry c1="230" c2="0" c3="0" c4="255" />
+    </ColorTable>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
